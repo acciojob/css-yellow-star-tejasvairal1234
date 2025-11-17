@@ -7,7 +7,7 @@
  display: block;
  width: 0px;
  height: 0px;
- border-right: 1em solid transparent;
+ border-right: 50px solid rgba(0, 0, 0, 0);
  border-bottom: 100px solid rgb(255, 255, 0);
  border-left: 50px solid rgba(0, 0, 0, 0);
  transform: rotate(35deg);
@@ -15,7 +15,7 @@
 .star:before {
  border-bottom: 100px solid rgb(255, 255, 0);
  border-left: 50px solid rgba(0, 0, 0, 0);
- border-right: 0.3em solid transparent;
+ border-right: 50px solid rgba(0, 0, 0, 0);
  position: absolute;
  height: 0;
  width: 0;
@@ -32,7 +32,7 @@
  left: -1.05em;
  width: 0;
  height: 0;
- border-right: 1em solid transparent;
+ border-right: 50px solid rgba(0, 0, 0, 0);
  border-bottom: 100px solid rgb(255, 255, 0);
  border-left: 50px solid rgba(0, 0, 0, 0);
  transform: rotate(-70deg);
